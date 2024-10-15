@@ -8,6 +8,6 @@ The tested interaction for this brief project will be jumping in a 3-dimensional
 - The player presses a trigger to shoot out an explosive projectile. Upon shooting this projectile at their own feet, they will be propelled in the opposite direction according to the Unity physics engine.
 
 __Storyboards__
-![Storyboard1](Storyboard1.png "Storyboard 1")
-![Storyboard2](Storyboard2.png "Storyboard 2")
-![Storyboard3](Storyboard3.png "Storyboard 3")
+![Storyboard1](Storyboard1.PNG "Storyboard 1")
+![Storyboard2](Storyboard2.PNG "Storyboard 2")
+![Storyboard3](Storyboard3.PNG "Storyboard 3")
