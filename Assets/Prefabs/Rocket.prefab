@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 978a859b4546a9a4ea3920b186619761, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shotForce: 500
+  shotForce: 1000
   flightTime: 5
   explosionRadius: 10
   explosionForce: 1000

@@ -583,7 +583,7 @@
                 {
                     "name": "",
                     "id": "c65532dd-8543-4453-b680-3416cc88e701",
-                    "path": "<XRSimulatedController>/primaryButton",
+                    "path": "<XRController>{LeftHand}/primaryButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
